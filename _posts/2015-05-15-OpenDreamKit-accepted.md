@@ -32,8 +32,7 @@ thank all those who helped shape this proposal and make it happen.
 It is our hope that this financial support will help push forward
 critical technical tasks. We tried hard in the proposal to make a
 worthwhile selection of such tasks, within some constraints imposed by
-the specific call. We are now legally committed to treat those tasks
-in priority. This kind of long term prediction work is tough: one of
+the specific call. This kind of long term prediction work is tough: one of
 them has actually already been completed by the community in the mean
 time! This is great; whenever this will happen we will be able
 reprioritize the resources to whatever emerging needs that will arise.
